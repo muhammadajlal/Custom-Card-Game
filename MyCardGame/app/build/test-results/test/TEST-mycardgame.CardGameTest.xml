@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mycardgame.CardGameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-09T10:29:33" hostname="DESKTOP-G806IJ7" time="0.095">
+  <properties/>
+  <testcase name="testWinnerOfNextRoundWinsTiedCards()" classname="mycardgame.CardGameTest" time="0.07"/>
+  <testcase name="testNewDeckContains40Cards()" classname="mycardgame.CardGameTest" time="0.005"/>
+  <testcase name="testPlayerDrawWithEmptyDrawPile()" classname="mycardgame.CardGameTest" time="0.004"/>
+  <testcase name="testHigherCardWins()" classname="mycardgame.CardGameTest" time="0.002"/>
+  <testcase name="testShuffleFunctionShufflesDeck()" classname="mycardgame.CardGameTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
