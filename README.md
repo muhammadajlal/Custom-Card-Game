@@ -1,10 +1,6 @@
-# Card Game
+# Custom Card Game Overview
 
-It is a two-player card game implemented in Java. This file contains the guidelines to run this game and perform unit tests in an IDE as well as in a Terminal environment.  
-
-## Overview
-
-This project develops a Java-based two-player card game that simulates a custom card game played by the computer. The custom game logic, card handling, and user interactions are described in detail at the end of this file. 
+This project develops a Java-based two-player card game that simulates a custom card game played by the computer. The custom game logic, card handling, and user interactions are described in detail at the end of this file. This file contains the guidelines to run this game and perform unit tests in an IDE as well as in a Terminal environment.
 
 ## Prerequisites
 
